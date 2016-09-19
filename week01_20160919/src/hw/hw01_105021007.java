@@ -1,4 +1,5 @@
 package hw;
+//105021007 ³¯ÄQ¦w
 import java.util.Scanner;
 public class hw01_105021007 {
 
